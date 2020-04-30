@@ -1,0 +1,139 @@
+h1 {
+    color:black;
+    font-size: 40px;
+    font-family: 'Bangers', cursive;
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Sigmar One', cursive;
+    color: whitesmoke;
+    font-size: 110px;
+}
+
+h3 {
+    font-size: 150px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 60px;
+    color: white;
+}
+h6 {
+    font-size: 50px;
+    color: grey;
+}
+
+h7 {
+    font-size: 50px;
+    color:black;
+    font-family: 'Bangers', cursive;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Sigmar One', cursive;
+font-family: 'Handlee', cursive;
+font-family: 'Lalezar', cursive;
+font-family: 'Carter One', cursive;
+}
+
+h8 {
+font-size: 40px;
+font-weight: bold;
+
+}
+
+
+
+p1 { 
+    font-size: 25px;
+}
+p7 {
+    font-size: 25px;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+
+.lead {
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Sigmar One', cursive;
+    font-family: 'Handlee', cursive;
+    color:white;
+}
+
+.jumbotron{
+    background-image: url(SIngapore\ Landscape.jpg);
+    background-size: cover;
+    height: 100%;}
+
+
+.navbar-light .navbar-brand {
+}
+
+.navbar-brand img {
+    width: 180px;
+    height: 130px;
+}
+
+.fab {
+ font-size: 75px;
+ color: red;
+}
+
+.jumbotron {
+    padding-top: 10%;
+    padding-bottom: 20%;
+    max-height: 10px;
+}
+
+
+.row-cols-3 {
+    font-size: 30px;
+}
+
+.col-header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.col-sub {
+    color: grey;
+    font-size: 15px;
+}
+
+
+.tripadvisor img {
+    width: 85px;
+    height: 75px;
+}
+
+
+<!-- EAT & DRINK -->
+
+.carousel-inner{
+    width:100%;
+    max-height: 20px;
+  }
+
+.passion {
+    font-size: 60px;
+    font-family: 'Bangers', cursive;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Sigmar One', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Lalezar', cursive;
+    color: darkblue ;
+}
+
+.passion2 {
+    color: grey;
+    font-size: 20px;
+}
